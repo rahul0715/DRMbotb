@@ -4,4 +4,3 @@ asyncio
 pytz
 aiohttp
 argparse
-os
