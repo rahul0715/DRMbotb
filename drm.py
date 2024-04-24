@@ -10,13 +10,13 @@ from aiohttp import ClientSession
 import argparse
 
 # Initialize the Pyrogram client
-#app = Client("6736865642:AAFxmkIWGgDtteisEEirpdptr6FiZn_4ZnI")
+#app = Client("7023286569:AAGI_wWdkZMQuF2K5PSfn-4KDX7fcymbG0I")
 
 app = Client(
     "my_bot",
-    api_id=23476439,
-    api_hash="1626e884119a29dbccbb78e39b48128f",
-    bot_token="6736865642:AAFxmkIWGgDtteisEEirpdptr6FiZn_4ZnI"
+    api_id=26945844,
+    api_hash="9f2f1d81fd2af2b21a700fa6681215b1",
+    bot_token="7023286569:AAGI_wWdkZMQuF2K5PSfn-4KDX7fcymbG0I"
 )
 
 # Logger configuration
