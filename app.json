@@ -7,7 +7,7 @@
         "video-extract",
         "pyrogram"
     ],
-    "repository": "https://github.com/amangautamdev/aman",
+    "repository": "https://github.com/amangautamdev/DRMbotb",
     "success_url": "https://t.me/LegendRobot",
     "stack": "container",
     "env": {
@@ -31,11 +31,6 @@
             "description": "𝑺𝒖𝒅𝒐 𝑰𝑫'𝒔 (𝒀𝒐𝒖 𝑪𝒂𝒏 𝑨𝒅𝒅 𝑴𝒖𝒍𝒕𝒊𝒑𝒍𝒆 𝑩𝒚 𝑮𝒊𝒗𝒊𝒏𝒈 𝑺𝒑𝒂𝒄𝒆)",
             "required": true
         },
-        "MONGO_URI": {
-            "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑴𝒐𝒏𝒈𝒐𝒅𝒃 𝑼𝒓𝒊",
-            "required": true
-        }
-    },
     "addons": [],
     "buildpacks": [
         {
