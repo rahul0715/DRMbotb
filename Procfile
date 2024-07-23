@@ -1,1 +1,1 @@
-worker: python3 drm.py
+web: python3 drm.py
