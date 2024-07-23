@@ -14,9 +14,9 @@ import argparse
 
 app = Client(
     "my_bot",
-    api_id=11657097,
-    api_hash="7198384c0cc8cb877e4731d14e2dd7b8",
-    bot_token="6486166910:AAF710gLtMeIuxo_IwQSjUoXAQkm9tjLgDU"
+    api_id=29426486,
+    api_hash="d71ad4ec048ab41677a1a439b21ff0c9",
+    bot_token="7355006985:AAEY8ijg4CP-8GgcliRGJja87Tby78QT7To"
 )
 
 # Logger configuration
